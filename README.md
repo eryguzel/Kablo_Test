@@ -1,2 +1,2 @@
 # Kablo_Test
-Sürücü kablolarını test etmeye yarayan bir plc programı ve arayüzünü içermektedir.
+Endüstriyel sürücülerin enerji kablolarının testini gerçekleştiren bir plc programı ve arayüzünü içermektedir.
